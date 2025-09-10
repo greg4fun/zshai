@@ -2,6 +2,8 @@
 
 A zsh plugin that converts natural language to terminal commands using a local LLM via Ollama API.
 
+![Demo](intro.gif)
+
 ## Features
 
 - 🤖 **Natural Language to Commands**: Convert plain English to terminal commands
@@ -24,7 +26,7 @@ A zsh plugin that converts natural language to terminal commands using a local L
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/zsh-ai.git ~/.zsh-ai
+git clone git@github.com:greg4fun/zshai.git ~/.zsh-ai
 
 # Run the installer
 cd ~/.zsh-ai && ./install.sh
